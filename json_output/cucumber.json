@@ -1,0 +1,40 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Verify search",
+        "description": "",
+        "id": "tags-in-cucumber;verify-search",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 227778400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "This is search test",
+            "match": {
+              "location": "TaggingStepDefinitions.this_is_search_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "Tags in cucumber",
+    "description": "",
+    "id": "tags-in-cucumber",
+    "keyword": "Feature",
+    "uri": "C:/Users/Home/eclipse-workspace/CucumberAMBatch/features/Tagging.feature"
+  }
+]
